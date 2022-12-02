@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\barberApiPublish</_PublishTargetUrl>
+    <History>True|2022-11-29T00:05:43.8977943Z;True|2022-11-28T21:03:19.6627956-03:00;True|2022-11-28T20:49:57.3790228-03:00;True|2022-11-24T09:54:31.1997293-03:00;True|2022-07-02T11:07:40.1301096-03:00;</History>
+  </PropertyGroup>
+</Project>
